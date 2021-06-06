@@ -1,3 +1,8 @@
+<?php
+  include_once (header.html);
+?>
+
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -710,7 +715,7 @@ href="mentions_legales_fichiers/colorschememapping.xml">
 	mso-fareast-language:EN-US;}
 p.MsoHeader, li.MsoHeader, div.MsoHeader
 	{mso-style-priority:99;
-	mso-style-link:"En-tête Car";
+	mso-style-link:"En-tï¿½te Car";
 	margin:0cm;
 	mso-pagination:widow-orphan;
 	tab-stops:center 8.0cm right 16.0cm;
@@ -852,11 +857,11 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 span.En-tteCar
-	{mso-style-name:"En-tête Car";
+	{mso-style-name:"En-tï¿½te Car";
 	mso-style-priority:99;
 	mso-style-unhide:no;
 	mso-style-locked:yes;
-	mso-style-link:En-tête;}
+	mso-style-link:En-tï¿½te;}
 span.PieddepageCar
 	{mso-style-name:"Pied de page Car";
 	mso-style-priority:99;
@@ -1023,10 +1028,10 @@ break-word'>
 margin-left:1.0cm;text-indent:1.0cm;line-height:normal'><a name="_GoBack"></a><span
 style='font-size:12.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>En vertu de
-l’article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans
-l’économie numérique, il est précisé aux utilisateurs du site internet
-https://enoelai.fr/ (ci-après dénommé &quot;Le Site&quot;) l’identité des
-différents intervenants dans le cadre de sa réalisation et de son suivi :</span><span
+lï¿½article 6 de la loi nï¿½ 2004-575 du 21 juin 2004 pour la confiance dans
+lï¿½ï¿½conomie numï¿½rique, il est prï¿½cisï¿½ aux utilisateurs du site internet
+https://enoelai.fr/ (ci-aprï¿½s dï¿½nommï¿½ &quot;Le Site&quot;) lï¿½identitï¿½ des
+diffï¿½rents intervenants dans le cadre de sa rï¿½alisation et de son suivi :</span><span
 style='font-family:Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
 Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></p>
 
@@ -1042,19 +1047,19 @@ Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></p>
 mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:10.0pt;
 font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings;color:black;mso-fareast-language:FR;mso-bidi-font-weight:bold'><span
-style='mso-list:Ignore'>§<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
+style='mso-list:Ignore'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
 style='font-size:16.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Propriété</span></b><b><span
+mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Propriï¿½tï¿½</span></b><b><span
 style='font-size:10.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:1.0cm;text-indent:1.0cm;line-height:normal'><span style='font-size:
 12.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-Calibri;color:black;mso-fareast-language:FR'>Le site est propriété de <b>ENOELAI</b>,
-Société par Actions Simplifiées Unipersonnelle au capital de 10 000 €,
-enregistrée au RCS de Belfort sous le n° 879 781 235 (Ci-après dénommée
-&quot;La Société&quot;). Son siège social est situé au 13 rue des tilleuls,
+Calibri;color:black;mso-fareast-language:FR'>Le site est propriï¿½tï¿½ de <b>ENOELAI</b>,
+Sociï¿½tï¿½ par Actions Simplifiï¿½es Unipersonnelle au capital de 10 000 ï¿½,
+enregistrï¿½e au RCS de Belfort sous le nï¿½ 879 781 235 (Ci-aprï¿½s dï¿½nommï¿½e
+&quot;La Sociï¿½tï¿½&quot;). Son siï¿½ge social est situï¿½ au 13 rue des tilleuls,
 25250 BRETIGNEY<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
@@ -1097,9 +1102,9 @@ Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></p>
 mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:10.0pt;
 font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings;color:black;mso-fareast-language:FR;mso-bidi-font-weight:bold'><span
-style='mso-list:Ignore'>§<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
+style='mso-list:Ignore'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
 style='font-size:16.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Responsabilités</span></b><b><span
+mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Responsabilitï¿½s</span></b><b><span
 style='font-size:10.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></b></p>
 
@@ -1115,7 +1120,7 @@ color:black;mso-fareast-language:FR'><o:p></o:p></span></p>
 margin-left:1.0cm;text-indent:2.0cm;line-height:normal'><i><span
 style='font-size:12.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>M. BOSCHI
-Francis, Président<o:p></o:p></span></i></p>
+Francis, Prï¿½sident<o:p></o:p></span></i></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:1.0cm;text-indent:2.0cm;line-height:normal'><i><span
@@ -1131,8 +1136,8 @@ Calibri;color:black;mso-fareast-language:FR'>&nbsp;<o:p></o:p></span></p>
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:1.0cm;text-indent:2.0cm;line-height:normal'><b><span
 style='font-size:12.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Délégué à la
-Protection des Données</span></b><span style='font-size:12.0pt;font-family:
+mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Dï¿½lï¿½guï¿½ ï¿½ la
+Protection des Donnï¿½es</span></b><span style='font-size:12.0pt;font-family:
 Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
 color:black;mso-fareast-language:FR'><o:p></o:p></span></p>
 
@@ -1160,22 +1165,22 @@ Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></p>
 mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:10.0pt;
 font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings;color:black;mso-fareast-language:FR;mso-bidi-font-weight:bold'><span
-style='mso-list:Ignore'>§<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
+style='mso-list:Ignore'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
 style='font-size:16.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Hébergement</span></b><b><span
+mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Hï¿½bergement</span></b><b><span
 style='font-size:10.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
 mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:1.0cm;line-height:normal'><span style='font-size:12.0pt;font-family:
 Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
-color:black;mso-fareast-language:FR'>Le site est hébergé par :<o:p></o:p></span></p>
+color:black;mso-fareast-language:FR'>Le site est hï¿½bergï¿½ par :<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:1.0cm;text-indent:2.0cm;line-height:normal'><span style='font-size:
 12.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
 Calibri;color:black;mso-fareast-language:FR'>PlanetHoster Inc., 4416&nbsp;<span
-class=SpellE>Louis-B.-Mayer</span>, Laval, Québec, Canada*<o:p></o:p></span></p>
+class=SpellE>Louis-B.-Mayer</span>, Laval, Quï¿½bec, Canada*<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:1.0cm;text-indent:2.0cm;line-height:normal'><span style='font-size:
@@ -1190,8 +1195,8 @@ Calibri;color:black;mso-fareast-language:FR'>01 76 60 41 43<o:p></o:p></span></p
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:1.0cm;line-height:normal'><span style='font-size:10.0pt;font-family:
 Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
-color:black;mso-fareast-language:FR'>* Toutes les données sont hébergées dans
-un centre de données sur le territoire français.</span><span style='font-size:
+color:black;mso-fareast-language:FR'>* Toutes les donnï¿½es sont hï¿½bergï¿½es dans
+un centre de donnï¿½es sur le territoire franï¿½ais.</span><span style='font-size:
 9.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
 Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></p>
 
@@ -1207,32 +1212,32 @@ Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></p>
 mso-list:l0 level1 lfo1'><![if !supportLists]><span style='font-size:10.0pt;
 font-family:Wingdings;mso-fareast-font-family:Wingdings;mso-bidi-font-family:
 Wingdings;color:black;mso-fareast-language:FR;mso-bidi-font-weight:bold'><span
-style='mso-list:Ignore'>§<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
+style='mso-list:Ignore'>ï¿½<span style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span><![endif]><b><span
 style='font-size:16.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";
-mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Règlement
-Général à la Protection des Données</span></b><b><span style='font-size:10.0pt;
+mso-bidi-font-family:Calibri;color:black;mso-fareast-language:FR'>Rï¿½glement
+Gï¿½nï¿½ral ï¿½ la Protection des Donnï¿½es</span></b><b><span style='font-size:10.0pt;
 font-family:Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
 Calibri;color:black;mso-fareast-language:FR'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:1.0cm;text-indent:1.0cm;line-height:normal'><span style='font-size:
 12.0pt;font-family:Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:
-Calibri;color:black;mso-fareast-language:FR'>En vertu du règlement (UE)
-2016/679 du Parlement européen et du Conseil du 27 avril 2016, relatif à la
-protection des personnes physiques à l'égard du traitement des données à
-caractère personnel et à la libre circulation de ces données, et abrogeant la
-directive 95/46/CE dit&nbsp;<i>Règlement Général sur la Protection des Données</i>
+Calibri;color:black;mso-fareast-language:FR'>En vertu du rï¿½glement (UE)
+2016/679 du Parlement europï¿½en et du Conseil du 27 avril 2016, relatif ï¿½ la
+protection des personnes physiques ï¿½ l'ï¿½gard du traitement des donnï¿½es ï¿½
+caractï¿½re personnel et ï¿½ la libre circulation de ces donnï¿½es, et abrogeant la
+directive 95/46/CE dit&nbsp;<i>Rï¿½glement Gï¿½nï¿½ral sur la Protection des Donnï¿½es</i>
 (RGPD).<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:1.0cm;line-height:normal'><span style='font-size:12.0pt;font-family:
 Roboto;mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:Calibri;
-color:black;mso-fareast-language:FR'>La société se conforme aux exigences en
-vigueur et met en place les mesures énoncées dans ses&nbsp;<b><a
+color:black;mso-fareast-language:FR'>La sociï¿½tï¿½ se conforme aux exigences en
+vigueur et met en place les mesures ï¿½noncï¿½es dans ses&nbsp;<b><a
 href="https://docs.enoelai.fr/CONDITIONS"><span style='color:#0563C1'>Conditions
-Générales D'utilisation</span></a>&nbsp;</b>et dans sa&nbsp;<b><a
+Gï¿½nï¿½rales D'utilisation</span></a>&nbsp;</b>et dans sa&nbsp;<b><a
 href="../../../../Desktop/PolitiquePD.htm"><span style='color:#0563C1'>Politique
-de Protection des Données Personnelles</span></a></b>&nbsp;pour y parvenir.<o:p></o:p></span></p>
+de Protection des Donnï¿½es Personnelles</span></a></b>&nbsp;pour y parvenir.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:1.0cm'><span style='font-size:12.0pt;
 line-height:107%;font-family:Roboto'><o:p>&nbsp;</o:p></span></p>
