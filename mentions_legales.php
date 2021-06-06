@@ -1,7 +1,6 @@
 <?php
-  include_once (header.html);
+  include ("header.html");
 ?>
-
 
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
