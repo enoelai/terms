@@ -1,11 +1,3 @@
-<div style="display=block;">
-  <?php
-  include ("header.html");
-?>
-</br>
-</div>
-
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -17,6 +9,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=ProgId content=Word.Document>
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 <link rel=File-List href="mentions_legales_fichiers/filelist.xml">
 <link rel=Preview href="mentions_legales_fichiers/preview.wmf">
 <!--[if gte mso 9]><xml>
@@ -1024,6 +1017,13 @@ ul
 
 <body lang=FR link=blue vlink="#954F72" style='tab-interval:35.4pt;word-wrap:
 break-word'>
+
+<div>
+  <?php
+  include ("header.html");
+?>
+</br>
+</div>
 
 <div class=WordSection1>
 
