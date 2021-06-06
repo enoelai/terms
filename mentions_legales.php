@@ -1,4 +1,4 @@
-<div>
+<div style="display=block;">
   <?php
   include ("header.html");
 ?>
